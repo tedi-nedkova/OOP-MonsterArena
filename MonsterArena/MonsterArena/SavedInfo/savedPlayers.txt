@@ -1,0 +1,6 @@
+Name=eli
+Health=390
+Level=41
+AttackPower=265
+XP=15300
+Inventory=Scroll,Scroll,HealingPotion,BuffElixir,Scroll,BuffElixir,Scroll,Scroll,Scroll,BuffElixir,Scroll,HealingPotion,HealingPotion,BuffElixir,BuffElixir
